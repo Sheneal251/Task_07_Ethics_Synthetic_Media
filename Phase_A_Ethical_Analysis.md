@@ -53,14 +53,20 @@ I believe AI-generated audio and video should always be disclosed to the audienc
 However, disclosure is not a complete solution. As I considered in the Context Axis, another person can download an artifact, edit it, and remove the original disclosure. A label therefore helps people who encounter the original content, but it cannot guarantee that everyone who later encounters a copied or edited version will receive the same information.
 
 ### 3.2 Provenance and Content Credentials
-Provenance provides information about where digital content came from and, depending on the system, information about how it has been modified. I think organizations producing synthetic media should preserve this information when the technology allows them to do so. It can provide another way to verify an artifact instead of relying only on what the audience can see or hear.
 
-At the same time, provenance cannot be treated as a guarantee. Metadata or credentials may not remain attached when content is copied, converted, edited, or moved between platforms. My Task 6 experience made me more aware that technical information attached to a file is only useful while it remains connected to that file. Provenance can support verification, but it cannot replace human judgment.
+Provenance provides information about where digital content came from and, depending on the system, how it has been created or modified. Systems such as content credentials can potentially give audiences and organizations another way to examine the history of an artifact rather than relying only on what they can see or hear.
+
+My Task 6 process log did not document a direct test of whether provenance information or content credentials survived re-encoding. Because I did not perform that experiment, I cannot claim from my own experience that the information would either survive or disappear. What my project did make clear was that the final audio artifact could exist separately from the process documentation that explained how I created it. Once an artifact is copied or redistributed, the audience may not have access to the documentation that originally surrounded it.
+
+For that reason, I see provenance as useful supporting information rather than a complete solution. Organizations should preserve provenance information when available, but they should not assume that every future viewer will receive or examine it.
 
 ### 3.3 Detection
-Detection tools attempt to determine whether media was generated or manipulated using AI. My experience with Task 6 makes me cautious about depending on them. Even if a detector gave an audio file a very high probability of being AI-generated, I would not treat that result as definitive proof.
 
-Detection can still be useful as one signal that something deserves additional examination, but I do not think an organization should make an important decision based only on a detector's result. Generative technology continues to improve, different tools may produce different results, and detection systems themselves can make mistakes. For that reason, detection should support verification rather than replace it.
+Detection tools attempt to determine whether media was generated or manipulated using AI. In Task 6, I evaluated the audio myself by listening to it rather than relying on an automated detector. I noticed that the voice was clear and realistic, but careful listening revealed a consistent synthetic rhythm, limited emotional variation, and unnatural emphasis in some places.
+
+My own ability to notice those characteristics is not the same as automated detection, and my Task 6 process log did not document a formal test using a deepfake detector. I therefore would not treat an automated detection score as definitive proof that something is authentic or synthetic.
+
+Detection could still provide a useful signal that an artifact deserves additional examination, but important decisions should not depend on a detector alone. Human review, source verification, provenance information, and other evidence should be considered alongside detection results.
 
 ### 3.4 Legal and Regulatory Approaches
 I believe laws have a role in establishing boundaries around synthetic media, particularly when a person's identifiable voice or likeness is copied without consent. Technology making something possible does not automatically give another person permission to use someone's identity.
