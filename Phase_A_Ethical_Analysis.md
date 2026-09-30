@@ -30,7 +30,13 @@ Second, students could reasonably believe that the professor actually made the s
 This hypothetical changes how I think about the capability I used in Task 6. Creating a generic AI voice to narrate disclosed content does not make a real person responsible for the words being spoken. Cloning someone's identifiable voice without consent does. For me, consent is therefore a clear boundary: I would not create a synthetic version of another person's voice without their permission, even if the technology made it easy to do.
 
 ### 2.3 Context Axis
+In Task 6, my synthetic audio was created with disclosure and within the context of an academic project. However, that context may not remain attached to the artifact after it leaves its original location. Imagine that I publish the audio clearly stating that it was generated using an AI voice. Someone then downloads it, removes the disclosure, takes a short section of the recording, and uploads that clip to a social media platform without explaining where it came from.
 
+In this situation, I believe the social media platform has the main responsibility once the content is being distributed through its service. The original creator can label an artifact responsibly, but cannot completely control what happens after someone downloads, edits, or reposts it. If platforms provide the infrastructure through which synthetic content can reach thousands or millions of people, I think they also have a responsibility to develop ways to identify, label, review, or limit misleading synthetic content.
+
+The person who intentionally removed the disclosure would still be responsible for changing the context and potentially misleading the audience. However, relying only on individual users to behave responsibly is not enough when content can spread quickly. Platforms operate at a scale that individual creators do not and therefore have an important role in preserving or restoring information about where content came from and whether it has been synthetically generated.
+
+This scenario also shows me a limitation of disclosure. Adding an AI-generated label to my original artifact is useful, but that label does not guarantee that every future viewer will see it. Disclosure can be cropped, removed, or separated from the media. Responsible synthetic-media practices therefore cannot depend on disclosure alone.
 ### 2.4 Scale Axis
 
 ## 3. Mitigation Landscape
