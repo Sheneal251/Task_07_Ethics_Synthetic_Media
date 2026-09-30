@@ -21,6 +21,13 @@ However, my reaction cannot be assumed for every listener. Someone could hear th
 For me, this changes the ethical responsibility of the person creating the artifact. In Task 6, AI was only the delivery mechanism for information I had already verified. If someone knowingly replaces verified information with fabricated claims, the same convenient technology becomes a way of distributing misinformation. The AI did not decide to lie; the human creating or distributing the content made that decision. This is why I think human judgment and verification remain important even when the audience knows that AI was involved.
 
 ### 2.2 Consent Axis
+My Task 6 artifact used a generic synthetic voice rather than copying the voice of a real person. That distinction matters to me. Imagine instead that I collected recordings of one of my professors and used them to create a synthetic version of the professor's voice without asking for permission. I could then create an audio announcement saying that tomorrow's class had been cancelled, even though the professor never made that announcement.
+
+I would refuse to create something like this because several ethical boundaries are crossed at the same time. First, the professor did not consent to having their voice copied or used. A person's voice is connected to their identity, and being able to reproduce it technologically does not mean that I have permission to use it.
+
+Second, students could reasonably believe that the professor actually made the statement. The problem is therefore not only that the audio is synthetic, but that it gives words to a real person who never said them. This could also create consequences for the professor's reputation or relationships with students, especially if the fabricated statement involved something more serious than cancelling a class.
+
+This hypothetical changes how I think about the capability I used in Task 6. Creating a generic AI voice to narrate disclosed content does not make a real person responsible for the words being spoken. Cloning someone's identifiable voice without consent does. For me, consent is therefore a clear boundary: I would not create a synthetic version of another person's voice without their permission, even if the technology made it easy to do.
 
 ### 2.3 Context Axis
 
