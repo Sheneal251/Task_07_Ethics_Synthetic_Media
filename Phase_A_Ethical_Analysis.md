@@ -38,19 +38,48 @@ The person who intentionally removed the disclosure would still be responsible f
 
 This scenario also shows me a limitation of disclosure. Adding an AI-generated label to my original artifact is useful, but that label does not guarantee that every future viewer will see it. Disclosure can be cropped, removed, or separated from the media. Responsible synthetic-media practices therefore cannot depend on disclosure alone.
 ### 2.4 Scale Axis
+In Task 6, I created only a small number of synthetic audio files, and each one required me to make choices about the script, voice, pacing, and final output. The ethical situation changes when that process is scaled. Imagine someone using the same type of technology to automatically create thousands of audio messages containing false information and distribute them online.
 
+What concerns me most about this scenario is how easily one person could produce a large amount of misleading content. Creating synthetic audio was already relatively easy in my own experience. If that process becomes automated, the amount of misleading content that one person can produce could increase dramatically without requiring the same increase in effort.
+
+This makes scale an ethical issue of its own. One misleading recording can cause harm, but thousands of recordings can make verification much more difficult for audiences, platforms, and organizations. The technology is useful partly because it makes content production faster and easier, but those same advantages also make misuse easier to scale.
+
+My Task 6 experience therefore did not make me believe that creating synthetic media is automatically wrong. It made me realize that ease of creation changes the amount of responsibility required from the people and organizations using it. The easier these systems become to use at scale, the more important human judgment, verification, and oversight become.
 ## 3. Mitigation Landscape
 
 ### 3.1 Disclosure
+I believe AI-generated audio and video should always be disclosed to the audience. When practical, I would prefer both a visible written label and a spoken disclosure. This gives the audience information about how the content was created instead of expecting them to determine whether something is synthetic on their own.
+
+However, disclosure is not a complete solution. As I considered in the Context Axis, another person can download an artifact, edit it, and remove the original disclosure. A label therefore helps people who encounter the original content, but it cannot guarantee that everyone who later encounters a copied or edited version will receive the same information.
 
 ### 3.2 Provenance and Content Credentials
+Provenance provides information about where digital content came from and, depending on the system, information about how it has been modified. I think organizations producing synthetic media should preserve this information when the technology allows them to do so. It can provide another way to verify an artifact instead of relying only on what the audience can see or hear.
+
+At the same time, provenance cannot be treated as a guarantee. Metadata or credentials may not remain attached when content is copied, converted, edited, or moved between platforms. My Task 6 experience made me more aware that technical information attached to a file is only useful while it remains connected to that file. Provenance can support verification, but it cannot replace human judgment.
 
 ### 3.3 Detection
+Detection tools attempt to determine whether media was generated or manipulated using AI. My experience with Task 6 makes me cautious about depending on them. Even if a detector gave an audio file a very high probability of being AI-generated, I would not treat that result as definitive proof.
+
+Detection can still be useful as one signal that something deserves additional examination, but I do not think an organization should make an important decision based only on a detector's result. Generative technology continues to improve, different tools may produce different results, and detection systems themselves can make mistakes. For that reason, detection should support verification rather than replace it.
 
 ### 3.4 Legal and Regulatory Approaches
+I believe laws have a role in establishing boundaries around synthetic media, particularly when a person's identifiable voice or likeness is copied without consent. Technology making something possible does not automatically give another person permission to use someone's identity.
+
+Legal rules can establish consequences and minimum standards, but laws alone cannot prevent every misuse. Synthetic media can be created and distributed quickly, sometimes before a legal process could respond. Laws can therefore provide accountability and boundaries, but they still need to work alongside organizational policies, platform controls, disclosure, and responsible individual behavior.
 
 ### 3.5 Platform Policies
+I place significant responsibility on platforms because they control the systems through which synthetic content can reach large audiences. My initial position is that social media platforms should remove AI-generated content rather than allowing it to circulate without control. This comes from my concern that disclosure can be removed and misleading synthetic content can spread much faster than an individual creator can correct it.
+
+At the same time, this position creates a difficult tradeoff. Not every use of synthetic media is deceptive. My own Task 6 artifact used a generic synthetic voice for truthful academic content, and synthetic narration can also have legitimate accessibility or communication uses. Removing all AI-generated media could therefore remove useful content along with harmful content. This is an area where my position is not completely settled: platforms need stronger responsibility for synthetic media, but deciding whether every synthetic artifact should be removed or whether verified, disclosed uses should remain available requires a more careful distinction.
 
 ### 3.6 Professional and Organizational Norms
+Organizations should not rely only on laws or technology companies to determine responsible use. They should establish their own rules about when synthetic media is appropriate, who can authorize it, how consent is documented, how content is disclosed, and what happens when something goes wrong.
+
+My Task 6 experience showed me that these tools can be useful and convenient without necessarily being deceptive. For that reason, I do not think an organization needs to reject the technology completely. Instead, the organization should create clear boundaries around its use and maintain human responsibility for the final output.
 
 ## 4. What This Changed About My Understanding
+Before working directly with synthetic audio, it was easier to think about AI-generated media mainly in terms of whether it looked or sounded real. Building the Task 6 artifact changed that perspective. I could recognize differences between the AI-generated voice and a human voice, so realism alone was not what concerned me most.
+
+The more important issue became how easily the technology can be used and what humans decide to do with that capability. AI can make tasks faster and more convenient, and I do not think the technology itself should automatically be blamed for harmful outcomes. At the same time, convenience can encourage people to rely on AI without thinking critically about the information being produced or the consequences of distributing it.
+
+The thought experiments in this analysis also showed me that no single safeguard solves the problem. Disclosure can be removed, provenance can be lost, detection can be wrong, laws can respond slowly, and organizational policies can be ignored. Responsible use therefore requires several protections working together, with human judgment remaining at the center.
